@@ -112,3 +112,4 @@ temp/
 .svelte-kit
 .svelte.bak.wsb/
 .wsb/
+Cargo.lock
